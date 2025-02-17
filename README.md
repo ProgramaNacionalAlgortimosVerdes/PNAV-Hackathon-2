@@ -19,8 +19,6 @@
 
 [3. Disclaimer](#disclaimer)
 
-[4. Collaborators](#colaboradores)
-
 ## **Overview**
 Este repositorio contiene las guías e instrucciones técnicas necesarias para que los equipos puedan desarrollar los casos de uso del **Segundo Hackathon del Programa Nacional de Algoritmos Verdes** sobre "[soluciones de GenAI para la biodiversidad](https://algoritmosverdes.gob.es/es/hackathon/soluciones-genai-para-la-biodiversidad)".
 
@@ -29,13 +27,16 @@ Este repositorio contiene las guías e instrucciones técnicas necesarias para q
 ```bash
 content/
 ├── 100_data/
-│   ├── api_eidos_iepnb.ipynb
-│   ├── api_red_natura_iepnb.ipynb
-│   └── generate_qa_dataset.ipynb
+│   ├── 101_api_eidos_iepnb.ipynb
+│   ├── 102_api_red_natura_iepnb.ipynb
+│   ├── 103_api_geoserver.ipynb
+│   ├── 104_generate_qa_dataset.ipynb
+│   └── 105_energy_consumption.ipynb
 ├── 200_help/
 │   ├── 201_inferencia.ipynb
 │   ├── 202_fine_tune.ipynb
-│   └── 203_codecarbon_implementation.ipynb
+│   ├── 203_codecarbon_implementation.ipynb
+│   └── 204_ALIA.ipynb
 ```
 
 ## **Disclaimer**
@@ -46,8 +47,3 @@ El proyecto se ha desarrollado utilizando:
 
 - python 3.12.
 - python módulos de python descritos en requirements.txt
-
-
-## **Colaboradores**
-
-- [Mario Garcia](mailto:mario.b.garcia@accenture.com)
