@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src=".images/PNAV-logo.png" alt="Logo del PNAV" style="width: auto; max-height: 100px;">
   <img src=".images/MTDFP.png" alt="Logo del Ministerio Transformación Digital y Función Pública" style="width: auto; max-height: 50px;">
-  <img src=".images/MITECO.png" alt="Logo del MITECO" style="width: auto; height: 10px;">
+  <img src=".images/MITECO.png" alt="Logo del MITECO" style="width: auto; height: 50px;">
 </div>
 
 ---
